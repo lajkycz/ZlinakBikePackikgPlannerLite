@@ -29,7 +29,7 @@ st.markdown(
     unsafe_allow_html=True,
 )
 
-st.title("🚲 Zlíňákův plánovač tras v1.1")
+st.title("🚲 Zlíňákův plánovač tras v1.3")
 
 # --- POMOCNÉ FUNKCE ---
 def get_village(lat, lon):
